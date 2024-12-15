@@ -1,5 +1,10 @@
-p{
+h1{
     background-color: black;
     color: white;
     font-family: cursive;
+}
+
+p{
+    background-color: yellow;
+    color: white;
 }
